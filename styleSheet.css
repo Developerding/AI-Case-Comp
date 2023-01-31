@@ -1,0 +1,11 @@
+.imgLabel {
+    flex-basis: auto;
+}
+
+.imgLabel img {
+    width: 70%;
+    height: auto;
+    flex: 1;
+    display: block;
+    margin: 0 auto;
+}
