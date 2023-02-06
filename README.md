@@ -18,9 +18,4 @@ CONSIDERATIONS & MITIGATION
   - areas of higher risk of monkey attacks (e.g. benches, rest areas, places where ppl are more likely to stop and eat
   - along trail with known monkey traffic
 
-ROLES
-Backend - Eze, Jonas
-Frontent - Ding, Basil
-Data - Basil, Jonas
-Report - Jonas
-Video - Basil
+Attached is the Google Colab link to our code: https://colab.research.google.com/drive/1AK6UU5ntd9xX6KgN7gwrWz-2HiYMJwhr?usp=sharing. Run it accordingly and you should be able to run and evaluate our model.
