@@ -19,3 +19,5 @@ CONSIDERATIONS & MITIGATION
   - along trail with known monkey traffic
 
 Attached is the Google Colab link to our code: https://colab.research.google.com/drive/1AK6UU5ntd9xX6KgN7gwrWz-2HiYMJwhr?usp=sharing. Run it accordingly and you should be able to run and evaluate our model.
+
+This links brings you to a Google Drive that containsthe weights and the sample photos used: https://drive.google.com/drive/folders/13S71cRKVUuH3sR1ZPuKtMSXmWC3L_KaY 
